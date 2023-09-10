@@ -1,0 +1,14 @@
+{
+  "name": "bun-first-testing",
+  "module": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/main.js"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
